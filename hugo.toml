@@ -1,5 +1,6 @@
 baseURL = "https://mrricardocarvalho.github.io/ricardo-carvalho-blog/"
 languageCode = "en-us"
+enableRobotsTXT = true
 title = "Ricardo Carvalho"
 theme = "PaperMod"
 paginate = 10
