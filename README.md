@@ -16,7 +16,7 @@ Automatic: every push to `main` builds and deploys via GitHub Actions to GitHub 
 **Before the first deploy:** set your GitHub username in `hugo.toml`:
 
 ```toml
-baseURL = "https://YOUR-GITHUB-USERNAME.github.io/ricardo-carvalho-blog/"
+baseURL = "https://mrricardocarvalho.github.io/ricardo-carvalho-blog/"
 ```
 
 Then: create this repo on GitHub, push, and enable Pages → Settings → Pages → Source: **GitHub Actions**.

@@ -1,4 +1,4 @@
-baseURL = "https://YOUR-GITHUB-USERNAME.github.io/ricardo-carvalho-blog/"
+baseURL = "https://mrricardocarvalho.github.io/ricardo-carvalho-blog/"
 languageCode = "en-us"
 title = "Ricardo Carvalho"
 theme = "PaperMod"
