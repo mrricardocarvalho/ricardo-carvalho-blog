@@ -39,6 +39,9 @@ paginate = 10
 [markup.goldmark.renderer]
   unsafe = true
 
+[sitemap]
+  filename = "sitemap-blog.xml"
+
 [outputs]
   home = ["HTML", "RSS"]
 
