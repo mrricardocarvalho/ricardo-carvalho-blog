@@ -1,6 +1,6 @@
 ---
 title: "[Bug] AL Language Extension initializes forever if used with an external ruleset file"
-date: 2026-09-26T09:00:00+01:00
+date: 2026-09-28T09:00:00+01:00
 draft: false
 slug: "bug-al-language-extension-initializes-forever-if-used-with-an-external-ruleset-file"
 tags: ["business-central", "codeanalysis", "problem"]

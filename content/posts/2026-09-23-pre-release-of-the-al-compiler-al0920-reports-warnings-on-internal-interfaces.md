@@ -1,6 +1,6 @@
 ---
 title: "Pre-release of the AL compiler: AL0920 reports warnings on internal interfaces"
-date: 2026-09-26T09:00:00+01:00
+date: 2026-09-23T09:00:00+01:00
 draft: false
 slug: "pre-release-of-the-al-compiler-al0920-reports-warnings-on-internal-interfaces"
 tags: ["alcompiler", "business-central", "what-s-coming"]

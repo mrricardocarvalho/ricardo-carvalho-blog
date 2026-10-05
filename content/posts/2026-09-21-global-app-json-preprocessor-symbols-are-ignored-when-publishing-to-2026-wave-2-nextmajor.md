@@ -1,6 +1,6 @@
 ---
 title: "Global app.json preprocessor symbols are ignored when publishing to 2026 Wave 2 (NextMajor)"
-date: 2026-09-26T09:00:00+01:00
+date: 2026-09-21T09:00:00+01:00
 draft: false
 slug: "global-app-json-preprocessor-symbols-are-ignored-when-publishing-to-2026-wave-2-nextmajor"
 tags: ["business-central", "nextmajor", "what-s-coming"]

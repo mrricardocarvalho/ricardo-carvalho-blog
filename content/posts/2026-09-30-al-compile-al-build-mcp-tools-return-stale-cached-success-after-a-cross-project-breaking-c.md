@@ -1,6 +1,6 @@
 ---
 title: "al_compile/al_build MCP tools return stale cached success after a cross-project breaking change"
-date: 2026-09-26T09:00:00+01:00
+date: 2026-09-30T09:00:00+01:00
 draft: false
 slug: "al-compile-al-build-mcp-tools-return-stale-cached-success-after-a-cross-project-breaking-c"
 tags: ["business-central", "mcp", "problem"]

@@ -1,6 +1,6 @@
 ---
 title: "'Value is not accepted' / Code analyzer rules not recognized in ruleset file."
-date: 2026-09-26T09:00:00+01:00
+date: 2026-09-24T09:00:00+01:00
 draft: false
 slug: "value-is-not-accepted-code-analyzer-rules-not-recognized-in-ruleset-file"
 tags: ["business-central", "codeanalysis", "quick-tip"]
